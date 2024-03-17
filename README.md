@@ -5,6 +5,7 @@
 ![Alt text](image.png)
 
 <h4>JavaScript Algorithms and Data Structures</h4>
+
 <table>
     <tr>
         <th>N°</th>
